@@ -1,2 +1,2 @@
-# C-digos-em-C
+# Codigos-em-C
 Códigos que escrevi em C
